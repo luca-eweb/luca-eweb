@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on my million dollar website
 - 📫 How to reach me: luca.luedi@students.bfh.ch
-- 😄 Pronouns: LL
 - ⚡ Fun fact: i´m here and at the same time on the mount everest (quantenphysics hehe)
 
 <!---
